@@ -2,6 +2,6 @@
 
 👀 Soy un apasionado por la Programación, actualmente soy Desarrollador FrontEnd.
 
-🌱 Estoy estudiando para ser Desarrollador BackEnd.
+🌱 Estoy estudiando para ser Desarrollador FullStack.
 
-💼 Estoy buscando trabajo/pasantía como Desarrollador FrontEnd.
+💼 Estoy buscando trabajo/pasantía como Desarrollador FrontEnd o BackEnd.
