@@ -1,7 +1,5 @@
 👋 Hola, me llamo Facundo Marco Bacigalupo.
 
-👀 Soy un apasionado por la Programación, actualmente soy Desarrollador FrontEnd.
+👀 Soy un apasionado por la programación, actualmente soy Desarrollador Front-end, pero también cuento con conocimientos en Back-end.
 
-🌱 Estoy estudiando para ser Desarrollador FullStack.
-
-💼 Estoy buscando trabajo/pasantía como Desarrollador FrontEnd o BackEnd.
+💼 Estoy buscando trabajo/pasantía como Desarrollador Front-end o Back-end.
