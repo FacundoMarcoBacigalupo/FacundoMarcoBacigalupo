@@ -1,5 +1,5 @@
 <h1 align="center">Hola, me llamo <a href="https://portafolio-fmb.netlify.app">Facundo Marco Bacigalupo</a> 👋</h1>
-<img src="https://i.postimg.cc/QM5n0JG8/Linkedin.png"/>
+<img src="https://i.postimg.cc/fbYS9zfm/Linkedin.png"/>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre mi
 
