@@ -1,4 +1,4 @@
-<h1 align="center">Hola, me llamo <a href="https://portafolio-fmb.netlify.app">Facundo Marco Bacigalupo</a> 👋</h1>
+<h1 align="center">Hola, me llamo <a href="https://portafolio-fmb.netlify.app" target="blank">Facundo Marco Bacigalupo</a> 👋</h1>
 <img src="https://i.postimg.cc/6QF7SQSq/Banner-Profesional-Facundo.jpg"/>
 
 ## Sobre mi
